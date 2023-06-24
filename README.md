@@ -16,14 +16,15 @@ Check the image.jpg for the preview.
 
 Live Demo:
 
-   https://tg26codes.github.io/TG-Codes---Pomodoro-Timer/
+   https://codesoftg.github.io/TGCodes-Pomodoro-Timer/
+   
 ## Getting Started
 
-To view the TG Foods - BurgerBites website, simply visit   https://tg26codes.github.io/TG-Codes---Pomodoro-Timer/
+To view the TG Foods - BurgerBites website, simply visit  https://codesoftg.github.io/TGCodes-Pomodoro-Timer/
 
 To explore or modify the code, follow these steps:
 
-1.Clone the repository: https://github.com/tg26codes/TG-Codes---Pomodoro-Timer.git
+1.Clone the repository
 
 2.Open the project in your preferred code editor.
 
